@@ -14,7 +14,7 @@ data = {
     "qrlicense": "",
     "uniqId": "",
     "raspberrySerial": "",
-    "justresult": ""
+    "justresult": "1"
 }
 
 headers = {
