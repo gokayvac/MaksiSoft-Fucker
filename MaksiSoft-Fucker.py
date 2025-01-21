@@ -4,7 +4,7 @@ from colorama import Fore, init
 
 init(autoreset=True)
 
-url = "https://fitclubizmir.maksisoft.net/extra/mobile/turnikegecis"
+url = "https://(salonkodu).maksisoft.net/extra/mobile/turnikegecis"
 
 data = {
     "cpaccount": "",
